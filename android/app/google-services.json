@@ -1,0 +1,378 @@
+{
+  "project_info": {
+    "project_number": "253919586191",
+    "project_id": "lesson25-firebasedatabase",
+    "storage_bucket": "lesson25-firebasedatabase.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:253919586191:android:33331b76d3cd0e00538dfa",
+        "android_client_info": {
+          "package_name": "com.diyor.books"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "253919586191-vr6m8ptbnurb75s7ophuhsb75fvs8v1v.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBwslQRAOSrhWByUUVk84DBEUi37x4zodU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "253919586191-vr6m8ptbnurb75s7ophuhsb75fvs8v1v.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "253919586191-dkmegv4r7ol1lq56q2tr9tbsr9lm99t4.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.flutterBookApp"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:253919586191:android:d3ffa6fa4a9779f2538dfa",
+        "android_client_info": {
+          "package_name": "com.diyor.friends_forever"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "253919586191-vr6m8ptbnurb75s7ophuhsb75fvs8v1v.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBwslQRAOSrhWByUUVk84DBEUi37x4zodU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "253919586191-vr6m8ptbnurb75s7ophuhsb75fvs8v1v.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "253919586191-dkmegv4r7ol1lq56q2tr9tbsr9lm99t4.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.flutterBookApp"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:253919586191:android:e797239ebd0eeb9b538dfa",
+        "android_client_info": {
+          "package_name": "com.example.flutter_book_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "253919586191-vr6m8ptbnurb75s7ophuhsb75fvs8v1v.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBwslQRAOSrhWByUUVk84DBEUi37x4zodU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "253919586191-vr6m8ptbnurb75s7ophuhsb75fvs8v1v.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "253919586191-dkmegv4r7ol1lq56q2tr9tbsr9lm99t4.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.flutterBookApp"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:253919586191:android:e93df1ff46cbfba5538dfa",
+        "android_client_info": {
+          "package_name": "uz.gita.imotdinov.book"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "253919586191-vr6m8ptbnurb75s7ophuhsb75fvs8v1v.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBwslQRAOSrhWByUUVk84DBEUi37x4zodU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "253919586191-vr6m8ptbnurb75s7ophuhsb75fvs8v1v.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "253919586191-dkmegv4r7ol1lq56q2tr9tbsr9lm99t4.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.flutterBookApp"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:253919586191:android:7a1225ed5f3f05b9538dfa",
+        "android_client_info": {
+          "package_name": "uz.gita.imotdinov.book_flutter"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "253919586191-39r2h88kj2a1ll673qv5l019n9o27f7p.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "uz.gita.imotdinov.book_flutter",
+            "certificate_hash": "e6a01ff10680c5e52698a4ad3644608713180f9c"
+          }
+        },
+        {
+          "client_id": "253919586191-vr6m8ptbnurb75s7ophuhsb75fvs8v1v.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBwslQRAOSrhWByUUVk84DBEUi37x4zodU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "253919586191-vr6m8ptbnurb75s7ophuhsb75fvs8v1v.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "253919586191-dkmegv4r7ol1lq56q2tr9tbsr9lm99t4.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.flutterBookApp"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:253919586191:android:0d0f935f55cdcecf538dfa",
+        "android_client_info": {
+          "package_name": "uz.gita.imotdinov.bookdemo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "253919586191-vr6m8ptbnurb75s7ophuhsb75fvs8v1v.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBwslQRAOSrhWByUUVk84DBEUi37x4zodU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "253919586191-vr6m8ptbnurb75s7ophuhsb75fvs8v1v.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "253919586191-dkmegv4r7ol1lq56q2tr9tbsr9lm99t4.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.flutterBookApp"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:253919586191:android:1e23b3b7daca9aa9538dfa",
+        "android_client_info": {
+          "package_name": "uz.gita.imotdinov.find_friend"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "253919586191-vr6m8ptbnurb75s7ophuhsb75fvs8v1v.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBwslQRAOSrhWByUUVk84DBEUi37x4zodU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "253919586191-vr6m8ptbnurb75s7ophuhsb75fvs8v1v.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "253919586191-dkmegv4r7ol1lq56q2tr9tbsr9lm99t4.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.flutterBookApp"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:253919586191:android:89e18b33de6fd021538dfa",
+        "android_client_info": {
+          "package_name": "uz.gita.imotdinov.lesson27"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "253919586191-vr6m8ptbnurb75s7ophuhsb75fvs8v1v.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBwslQRAOSrhWByUUVk84DBEUi37x4zodU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "253919586191-vr6m8ptbnurb75s7ophuhsb75fvs8v1v.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "253919586191-dkmegv4r7ol1lq56q2tr9tbsr9lm99t4.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.flutterBookApp"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:253919586191:android:c379366360219b12538dfa",
+        "android_client_info": {
+          "package_name": "uz.gita.imotdinov.myapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "253919586191-vr6m8ptbnurb75s7ophuhsb75fvs8v1v.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBwslQRAOSrhWByUUVk84DBEUi37x4zodU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "253919586191-vr6m8ptbnurb75s7ophuhsb75fvs8v1v.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "253919586191-dkmegv4r7ol1lq56q2tr9tbsr9lm99t4.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.flutterBookApp"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:253919586191:android:1cc855a0ff5f16cb538dfa",
+        "android_client_info": {
+          "package_name": "uz.gita.imotdinov.tictactoe"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "253919586191-vr6m8ptbnurb75s7ophuhsb75fvs8v1v.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBwslQRAOSrhWByUUVk84DBEUi37x4zodU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "253919586191-vr6m8ptbnurb75s7ophuhsb75fvs8v1v.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "253919586191-dkmegv4r7ol1lq56q2tr9tbsr9lm99t4.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.flutterBookApp"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
