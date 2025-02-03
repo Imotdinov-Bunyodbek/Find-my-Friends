@@ -1,12 +1,12 @@
 import 'package:find_friend/util/firebase_options.dart';
 import 'package:find_friend/data/model/my_hive.dart';
-import 'package:find_friend/presentation/main_controller.dart';
+import 'package:find_friend/main_controller.dart';
 import 'package:find_friend/ui/home_screen.dart';
 import 'package:find_friend/ui/login_screen.dart';
 import 'package:firebase_core/firebase_core.dart';
 import 'package:flutter/material.dart';
 import 'package:get/get.dart';
-import 'data/model/location_service.dart';
+import 'data/services/location_service.dart';
 
 void main() async {
   WidgetsFlutterBinding.ensureInitialized();

@@ -6,7 +6,7 @@ import 'package:flutter/material.dart';
 import 'package:url_launcher/url_launcher.dart';
 import 'package:yandex_mapkit/yandex_mapkit.dart';
 
-import '../data/model/location_service.dart';
+import '../data/services/location_service.dart';
 import '../data/model/user.dart';
 
 // ignore: must_be_immutable

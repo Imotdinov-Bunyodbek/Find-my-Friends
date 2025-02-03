@@ -1,6 +1,6 @@
 import 'package:geolocator/geolocator.dart';
-import 'app_lat_long.dart';
-import 'app_location.dart';
+import '../model/app_lat_long.dart';
+import '../model/app_location.dart';
 
 class LocationService implements AppLocation {
   final defLocation = const DefaultLocation();

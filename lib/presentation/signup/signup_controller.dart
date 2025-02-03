@@ -3,7 +3,7 @@ import 'dart:io';
 import 'package:get/get.dart';
 import 'package:image_picker/image_picker.dart';
 
-import '../../data/model/location_service.dart';
+import '../../data/services/location_service.dart';
 import '../../data/model/my_hive.dart';
 import '../../data/model/user.dart';
 import '../../data/repository/auth_repository.dart';

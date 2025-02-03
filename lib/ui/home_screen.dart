@@ -1,5 +1,5 @@
 import 'package:cached_network_image/cached_network_image.dart';
-import 'package:find_friend/presentation/main_controller.dart';
+import 'package:find_friend/main_controller.dart';
 import 'package:find_friend/ui/map_screen.dart';
 import 'package:find_friend/presentation/home/home_controller.dart';
 import 'package:find_friend/ui/profile_screen.dart';

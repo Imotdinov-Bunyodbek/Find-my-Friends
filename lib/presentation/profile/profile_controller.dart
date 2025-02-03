@@ -1,7 +1,7 @@
 import 'dart:io';
 
 import 'package:find_friend/data/model/app_lat_long.dart';
-import 'package:find_friend/data/model/location_service.dart';
+import 'package:find_friend/data/services/location_service.dart';
 import 'package:find_friend/data/model/my_hive.dart';
 import 'package:find_friend/data/repository/auth_repository.dart';
 import 'package:flutter/cupertino.dart';
@@ -20,7 +20,7 @@ class ProfileController extends GetxController {
   final passwordController = TextEditingController().obs;
   late User user;
 
-  ProfileController() {
+  void init() {
     hive = MyHiveHelper();
     user = hive.getUser();
     nameController.value.text = user.name;
